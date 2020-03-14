@@ -1,0 +1,14 @@
+# lovelace_gen
+type: markdown
+style: |
+  ha-card {
+    font-size: 20px;
+    font-family: Quicksand;
+    height: 30px;
+    background: none;
+    margin-top: -0.9em;
+    margin-left: -5px;
+    margin-bottom: 0.5em;
+    box-shadow: none;
+  }
+content: {{ title }}
