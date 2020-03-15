@@ -1,5 +1,9 @@
+__pycache__
 .HA_VERSION
 .cloud
 .storage
 home-assistant_v2.db
 .DS_STORE
+secrets.yaml
+home-assistant.log
+.uuid

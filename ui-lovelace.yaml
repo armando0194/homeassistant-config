@@ -11,9 +11,9 @@ resources:
     type: js
   - url: /local/plugins/button-card.js
     type: module
-  - url: /local/plugins/mini-graph-card.js
+  - url: /local/plugins/mini-graph-card-bundle.js
     type: module
-  - url: /local/plugins/mini-media-player.js
+  - url: /local/plugins/mini-media-player-bundle.js
     type: module
   - url: /local/plugins/vertical-stack-in-card.js
     type: js
