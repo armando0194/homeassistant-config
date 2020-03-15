@@ -19,3 +19,5 @@ frontend:
 
 lovelace:
   mode: yaml
+
+lovelace_gen:
