@@ -52,6 +52,11 @@ eight_sleep:
   username: !secret eight_email
   password: !secret eight_password
 
+weather:
+  - platform: openweathermap
+    api_key: !secret openweathermap_api_key
+    mode: freedaily
+
 lovelace_gen:
 
 sensor: !include_dir_merge_list sensor
