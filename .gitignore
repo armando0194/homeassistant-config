@@ -7,3 +7,4 @@ home-assistant_v2.db
 secrets.yaml
 home-assistant.log
 .uuid
+.august.conf

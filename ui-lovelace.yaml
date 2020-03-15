@@ -25,13 +25,7 @@ resources:
     type: module
   - url: /local/plugins/state-switch.js
     type: module
-
-  # - url: /local/hui-view-settings.js
-  #   type: js
-  # - url: /local/popup-background.js
-  #   type: js
     
-  
   - url: 'https://fonts.googleapis.com/css?family=Raleway'
     type: css
   - url: 'https://fonts.googleapis.com/css?family=Oswald'
